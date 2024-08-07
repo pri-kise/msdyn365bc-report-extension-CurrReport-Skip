@@ -1,0 +1,30 @@
+{
+    "name": "Ruleset",
+    "includedRuleSets": [
+        {
+            "action": "Error",
+            "path": "./Analyzer.ruleset.json"
+        },
+        {
+            "action": "Error",
+            "path": "./CodeCop.ruleset.json"
+        },
+        {
+            "action": "Error",
+            "path": "./Compiler.ruleset.json"
+        },
+        {
+            "action": "Error",
+            "path": "./PTECop.ruleset.json"
+        },
+        {
+            "action": "Error",
+            "path": "./UICop.ruleset.json"
+        },
+        {
+            "action": "Error",
+            "path": "./BCLinterCop.ruleset.json"
+        }
+    ],
+    "rules": []
+}

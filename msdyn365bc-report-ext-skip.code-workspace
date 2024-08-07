@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".azuredevops"
+		},
+		{
+			"path": "MainApp"
+		},
+		{
+			"path": "TestApp"
+		}
+	]
+}
